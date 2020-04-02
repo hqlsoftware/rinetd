@@ -4,4 +4,4 @@
 
 ## 安装步骤
 
-> 链接地址 [Centos利用Rinetd实现端口转发-连接阿里云RDS](http://www.baidu.com)
+> 链接地址 [Centos利用Rinetd实现端口转发-连接阿里云RDS](https://www.toutiao.com/i6809151792941629966/)
